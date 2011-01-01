@@ -139,7 +139,7 @@
     <string name="artists_header">Artiste</string>
     <string name="playlists_header">Playlists</string>
     <string name="item_count_in_header">(%d)</string>
-    <string name="online_resource_music">Music en ligne</string>
+    <string name="online_resource_music" />
     <string name="lrc_searching">cherche les Lyrics...</string>
     <string name="lrc_search_failed">Impossible de trouver les Lyrics!</string>
     <string name="album_search_failed">Pochettes d\'album introuvables ...</string>
@@ -185,7 +185,7 @@
     <string name="upgrade_downloading">Téléchargement...</string>
     <string name="upgrade_failed">Le téléchargement du fichier à échoué</string>
     <string name="my_music">Ma Musique</string>
-    <string name="online_music">Musique en ligne</string>
+    <string name="online_music" />
     <string name="load_category_in_process">Obtention de la liste</string>
     <string name="load_category_failed">Obtention de la liste échoué</string>
     <string name="search_in_process">Rechercher</string>
