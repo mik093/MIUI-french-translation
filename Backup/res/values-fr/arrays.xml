@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Paramètres WIFI</item>
+        <item>Tous les programmes</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Contacts et Historique des appels</item>
+        <item>SMS et MMS</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Paramètres WIFI</item>
+        <item>Présentation du bureau</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Paramètres)</item>
+        <item>(Programme)</item>
+        <item>(Paramètres + Programmes)</item>
+    </string-array>
+    <string-array name="restore_dialog_content_type">
+        <item>réstauration du système</item>
+        <item>réstauration des données</item>
+    </string-array>
+</resources>

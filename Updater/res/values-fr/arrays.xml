@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="update_frequency">
+        <item>Manuelle</item>
+        <item>A chaque démarrage</item>
+        <item>Toutes les heures</item>
+        <item>1 fois par jour</item>
+        <item>1 fois par semaine</item>
+    </string-array>
+</resources>

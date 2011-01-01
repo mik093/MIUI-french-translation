@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>:-P</item>
+        <item>Pitié</item>
+        <item>-_-\'</item>
+        <item>Hehe</item>
+        <item>A+</item>
+        <item>:$</item>
+        <item>:\'(</item>
+        <item>(F)</item>
+        <item>:-S</item>
+        <item>:-#</item>
+        <item>8-)</item>
+        <item>(K)</item>
+        <item>\'Joyeux\'</item>
+        <item>(L)</item>
+        <item>:-)</item>
+        <item>\'Sifflotte\'</item>
+        <item>:@</item>
+        <item>:-||</item>
+        <item>Bravo</item>
+        <item>Confus</item>
+        <item>:-O</item>
+        <item>WTF!</item>
+        <item>|-)</item>
+        <item>Meh!</item>
+        <item>\'Oui\'</item>
+        <item>\'Non\'</item>
+        <item>\'merci</item>
+        <item>d\'accord</item>
+        <item>\'Victoire\'</item>
+        <item>\'OK\'</item>
+        <item>\'Cochon\'</item>
+    </string-array>
+    <string-array name="default_insert_attach_names">
+        <item>Galerie</item>
+        <item>Photo</item>
+        <item>Contacts</item>
+        <item>Favoris</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Blanc</item>
+        <item>Vert</item>
+        <item>Rouge</item>
+        <item>Bleu</item>
+        <item>Jaune</item>
+        <item>Cyan</item>
+        <item>Rouge-violet</item>
+        <item>Rose</item>
+        <item>Bleu ciel</item>
+        <item>Orange</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>white</item>
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+        <item>\#add8e6</item>
+    </string-array>
+    <string-array name="led_color_entries_for_milestone">
+        <item>Vert</item>
+        <item>Rouge</item>
+        <item>Bleue</item>
+        <item>Jaune</item>
+        <item>Cyan</item>
+        <item>Violet</item>
+        <item>Bleu clair</item>
+    </string-array>
+    <string-array name="led_color_values_for_milestone">
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffa500</item>
+    </string-array>
+    <string-array name="font_size_entries">
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+    </string-array>
+    <string-array name="font_size_values">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    <string-array name="more_attachment_texts">
+        <item>Photos</item>
+        <item>Photograph.</item>
+        <item>Vidéo</item>
+        <item>Filmer</item>
+        <item>Audio</item>
+        <item>Enregistrer</item>
+        <item>Diapositive</item>
+        <item>Gallerie</item>
+    </string-array>
+    <string-array name="color_picker_colors">
+        <item>\#edecda</item>
+        <item>\#f6e3e1</item>
+        <item>\#9599c7</item>
+        <item>\#d4ecce</item>
+        <item>\#e7e4a6</item>
+        <item>\#e4decf</item>
+        <item>\#d8d8d8</item>
+        <item>\#f2eae1</item>
+        <item>\#e9e4bd</item>
+        <item>\#b8c6cf</item>
+        <item>\#743793</item>
+        <item>\#a39a88</item>
+        <item>\#005991</item>
+        <item>\#434343</item>
+        <item>\#5c4942</item>
+        <item>\#ec6d00</item>
+        <item>\#405d53</item>
+        <item>\#54ad6b</item>
+        <item>\#0098d5</item>
+        <item>\#a1081e</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 secondes</item>
+        <item>3 secondes</item>
+        <item>4 secondes</item>
+        <item>5 secondes</item>
+        <item>6 secondes</item>
+        <item>7 secondes</item>
+        <item>8 secondes</item>
+        <item>9 secondes</item>
+        <item>10 secondes</item>
+        <item>Personnalisé...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Toujours</item>
+        <item>Uniquement en mode silencieux</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>
