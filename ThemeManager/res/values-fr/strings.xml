@@ -51,7 +51,7 @@
     <string name="customize_mms_conversation">Personnaliser la page de discussion</string>
     <string name="restore_system_default_theme_title">Restaurer le système par défaut</string>
     <string name="theme_preview_preference_brief_prefix">Description:</string>
-    <string name="online_resources">Thèmes en ligne</string>
+    <string name="online_resources">Téléchargement de thèmes</string>
     <string name="online_title">Thèmes</string>
     <string name="online_resource_download">Télécharger</string>
     <string name="online_resource_apply">Appliquer</string>
