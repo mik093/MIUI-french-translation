@@ -52,12 +52,12 @@
     <string name="restore_system_default_theme_title">Restaurer le système par défaut</string>
     <string name="theme_preview_preference_brief_prefix">Description:</string>
     <string name="online_resources">Thèmes en ligne</string>
-    <string name="online_title">Top</string>
+    <string name="online_title">Thèmes</string>
     <string name="online_resource_download">Télécharger</string>
     <string name="online_resource_apply">Appliquer</string>
     <string name="online_resource_title">Nom du thème</string>
     <string name="online_resource_information">%1$s | %2$sB | Télécharger(%3$s)</string>
-    <string name="online_hotest">Les plus téléchargés</string>
+    <string name="online_hotest">Populaire</string>
     <string name="online_latest">Récent</string>
     <string name="online_no_network">Pas de connexion réseau</string>
     <string name="online_loading">Chargement</string>

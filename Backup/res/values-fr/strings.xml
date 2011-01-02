@@ -64,8 +64,8 @@
     <string name="backup_sys_data_desc">\nSauvegarde rapide des contacts, sms, et des paramètres système\n\nCette sauvegarde sera stockée sur la carte SD, dans le dossier MIUI_backup/SysDataBackup.</string>
     <string name="backup_app_desc">\nSauvegarde des fichiers du téléphone et des programmes des programmes installés, les données générées. Tels que: des jeux et des fichiers du jeu en cours.\n\nCette sauvegarde sera stockée sur la carte SD, dans le dossier MIUI_Backup/Allbackup.</string>
     <string name="backup_rom_desc">\nSauvegarde tout le téléphone (carte SD non incluse).\n\nNote:\nFonctionnement en mode de récupération automatique, vous devez redémarrer le téléphone.\n\nComme l\'opération est plus complexe, elle prend beaucoup de temps.\n\nCette sauvegarde sera stockée sur la carte SD, dans le dossier MIUI_backup/SysBackup.</string>
-    <string name="item_sys_data_desc">Cette sauvegarde sera stockée sur la carte SD, dans le dossier MIUI_backup/SysDataBackup/</string>
-    <string name="item_app_desc">Cette sauvegarde sera stockée sur la carte SD, dans le dossier MIUI_backup/AllBackup/</string>
+    <string name="item_sys_data_desc">Cette sauvegarde est stockée sur la carte SD, dans le dossier MIUI_backup/SysDataBackup/</string>
+    <string name="item_app_desc">Cette sauvegarde est stockée sur la carte SD, dans le dossier MIUI_backup/AllBackup/</string>
     <string name="empty_sys_data_desc">\n\nSauvegarde rapide des contacts, sms, et des paramètres système.</string>
     <string name="empty_app_desc">\n\nSauvegarde des fichiers du téléphone et des programmes des programmes installés, les données générées. Tels que: des jeux et des fichiers du jeu en cours.</string>
     <string name="empty_rom_desc">\n\nSauvegarde tout le téléphone (carte SD non incluse).\n\nnote: \nFonctionnement en mode de récupération automatique, vous devez redémarrer le téléphone.\n\nComme l\'opération est plus complexe, elle prend beaucoup de temps.</string>
