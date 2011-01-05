@@ -1121,12 +1121,12 @@
     <string name="sound_category_calls_title">Appels entrants</string>
     <string name="sound_category_notification_title">Notifications</string>
     <string name="sound_category_feedback_title">Commentaires</string>
-    <string name="common_settings_tab">Commun</string>
-    <string name="personal_settings_tab">Personnel</string>
+    <string name="common_settings_tab">Généraux</string>
+    <string name="personal_settings_tab">Personnels</string>
     <string name="system_settings_tab">Système</string>
-    <string name="program_settings_tab">Programme</string>
+    <string name="program_settings_tab">Programmes</string>
     <string name="personal_info_category">Renseignements personnels</string>
-    <string name="personalization_category">Personnalisé</string>
+    <string name="personalization_category">Personnalisation</string>
     <string name="vcard_settings_title">Carte personnelle</string>
     <string name="password_guide">Mot de passe individuel</string>
     <string name="ok_gotopassword">Paramètres de sécurité</string>
@@ -1197,7 +1197,7 @@
     <string name="preferred_app_title">Priorité de la demande pour répondre aux touches multimédia</string>
     <string name="no_media_button_receiver">Aucun bouton</string>
     <string name="trackball_wake_title">Trackball wake</string>
-    <string name="install_development_settings_title">Installation et debugage</string>
+    <string name="install_development_settings_title">Installation et débogage</string>
     <string name="uninstall_program_title">Désinstaller</string>
     <string name="manage_applications_title">Gestionnaire d\'applications</string>
     <string name="development_debug_category">Développement et débogage</string>
