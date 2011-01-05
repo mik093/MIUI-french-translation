@@ -44,9 +44,9 @@
     <string name="more">Plus</string>
     <string name="running_face_detection">Reconnaissance de visage en cours, veuillez patienté...</string>
     <string name="running_setup_highlight">Calcul de la zone de recadrage, veuillez patienté ...</string>
-    <string name="saving_image">Sauver l\' image ...</string>
-    <string name="saving_wallpaper">Sauver le fond d\'écran ...</string>
-    <string name="saving_lockscreen">Sauver le fond d\'écran ...</string>
+    <string name="saving_image">Enregistrer l\' image ...</string>
+    <string name="saving_wallpaper">Installation du fond d\'écran ...</string>
+    <string name="saving_lockscreen">Installation du fond d\'écran ...</string>
     <string name="multiface_crop_help">Veuillez choisir une zone du visage</string>
     <string name="video_err">Impossible de lire la vidéo</string>
     <string name="pick_camera_app">Choisir l\'application appareil photo</string>
