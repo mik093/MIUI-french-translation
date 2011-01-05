@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Mise à jour système</string>
+    <string name="app_name">Mise à jour</string>
     <string name="apply_now_button_text">Mettre à jour</string>
     <string name="apply_later_button_text">Mettre à jour plus tard</string>
     <string name="apply_update_button_text">Appliquer les Mises à jour</string>
@@ -88,13 +88,13 @@
     <string name="widget_feedback">Feedback</string>
     <string name="unable_to_flash_recovery">Impossible de flasher le recovery</string>
     <string name="flash_recovery_successfully">Flash du recovery correctement effectué</string>
-    <string name="reflash_recovery">Reflasher le recovery</string>
-    <string name="boot_recovery">Redémarrer en mode recovery</string>
+    <string name="reflash_recovery">Install. recovery MIUI</string>
+    <string name="boot_recovery">Mode recovery</string>
     <string name="flash_recovery_dialog_message">Flasher le recovery</string>
     <string name="applying_rom_message">Installation de la mise à jour...</string>
     <string name="loading">Connexion a MIUI</string>
     <string name="page_error_title">Impossible d\'accéder à</string>
     <string name="page_error">Impossible d\'accéder à MIUI, le réseaux de téléphonie mobile peut être le problème, ou il peut être lié au serveur.</string>
     <string name="page_reload">Recharger</string>
-    <string name="install_rom_from_sd">Sélectionner la ROM à installer</string>
+    <string name="install_rom_from_sd">installer une ROM</string>
 </resources>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Surveillance de consommation</string>
+    <string name="app_name">Consommation</string>
     <string name="duration">%d-%d-%d</string>
     <string name="sms_unit">Messages</string>
     <string name="mobile_unit">Mo</string>
     <string name="day_unit" />
     <string name="first_traffic_day">Premier jour de facturation</string>
     <string name="first_traffic_day_hint">Date de facturation initiale (1 à 28)</string>
-    <string name="auto_turn_off_mobile">s\'éteint automatiquement lorsque le trafic réseau est utilisé entièrement</string>
+    <string name="auto_turn_off_mobile">Eteindre la 3G</string>
     <string name="menu_refresh">Actualiser</string>
     <string name="menu_sort_by_name">Trier par Nom</string>
     <string name="menu_sort_by_traffic">Trier par Consommation</string>
@@ -35,10 +35,10 @@
     <string name="android_system">Système Android</string>
     <string name="first_application">Contacts</string>
     <string name="traffic_detail">Détails de la consommation</string>
-    <string name="today_traffic">Débit journalier</string>
-    <string name="this_week_traffic">Débit hébdomadaire</string>
-    <string name="this_month_traffic">Débit mensuel</string>
-    <string name="last_month_traffic">Débit du mois dernier</string>
+    <string name="today_traffic">Conso. journalière</string>
+    <string name="this_week_traffic">Conso. hébdomadaire</string>
+    <string name="this_month_traffic">Conso. mensuel</string>
+    <string name="last_month_traffic">Conso. du mois dernier</string>
     <string name="network_monitor">Moniteur réseau</string>
     <string name="all_apps">Liste des programmes</string>
     <string name="refresh">Actualiser</string>
@@ -46,7 +46,7 @@
     <string name="download_bytes">Télécharger %s</string>
     <string name="upload">Envoyé</string>
     <string name="download">Téléchargé</string>
-    <string name="running_applications">en cours de fonctionnement</string>
+    <string name="running_applications">En cours de fonctionnement</string>
     <string name="other_applications">Autres programmes</string>
     <string name="apply_rules">Appliquer la règle</string>
     <string name="save_rules">Sauver la règle</string>

@@ -3,7 +3,7 @@
     <string name="app_name">Thème</string>
     <string name="theme_picker_title">Thème local</string>
     <string name="theme_picker_title_prefix">Thème %1$s</string>
-    <string name="theme_picker_online_title_prefix">Thème en ligne %1$s</string>
+    <string name="theme_picker_online_title_prefix">Téléchargement thème %1$s</string>
     <string name="theme_sdcard_missed_dialog_title">La carte mémoire n\'est pas accessible</string>
     <string name="theme_sdcard_missed_dialog_message">Assurez-vous que la carte mémoire est insérée, et que le téléphone n\'est pas en mode de transfert de données。</string>
     <string name="theme_changing_dialog_title">Appliquer le thème</string>
@@ -52,7 +52,7 @@
     <string name="restore_system_default_theme_title">Restaurer le système par défaut</string>
     <string name="theme_preview_preference_brief_prefix">Description:</string>
     <string name="online_resources">Téléchargement de thèmes</string>
-    <string name="online_title">Thèmes</string>
+    <string name="online_title">Téléchargement de thèmes</string>
     <string name="online_resource_download">Télécharger</string>
     <string name="online_resource_apply">Appliquer</string>
     <string name="online_resource_title">Nom du thème</string>

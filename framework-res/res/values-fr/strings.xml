@@ -896,7 +896,7 @@
     <string name="callNoAnswerTimeFormat">%s sonnerie(s)</string>
     <string name="callDetailsDurationFormat">%1$s minutes %2$s secondes</string>
     <string name="date_day">Date</string>
-    <string name="status_bar_traffic_title">La surveillance de consommation est activée</string>
+    <string name="status_bar_traffic_title">Etat de la consommation : </string>
     <string name="status_bar_battery_low_notification_button">Veuillez connecter le chargeur</string>
     <string name="status_bar_button_wifi">WiFi</string>
     <string name="status_bar_button_apn">APN</string>

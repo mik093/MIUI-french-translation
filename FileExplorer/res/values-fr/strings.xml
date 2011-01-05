@@ -27,7 +27,7 @@
     <string name="operation_refresh">Actualiser</string>
     <string name="operation_selectall">Sélectionner tout</string>
     <string name="operation_cancel_selectall">Tout désélectionner</string>
-    <string name="operation_show_sys">Afficher les fichiers</string>
+    <string name="operation_show_sys">Afficher les fichiers système</string>
     <string name="operation_hide_sys">Cacher les fichier système</string>
     <string name="operation_remove">Supprimer</string>
     <string name="cancel">Annuler</string>
@@ -35,7 +35,7 @@
     <string name="tab_category">Parcourir</string>
     <string name="tab_sd">Carte SD</string>
     <string name="tab_remote">FTP</string>
-    <string name="remote_title">Gestion à distance</string>
+    <string name="remote_title">FTP</string>
     <string name="tab_bluetooth">Bluetooth</string>
     <string name="root_folder">Root</string>
     <string name="sd_folder">Carte SD</string>
