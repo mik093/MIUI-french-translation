@@ -918,7 +918,7 @@
     <string name="recent_dialog_buttonAppKiller_summary">MIUI libère votre mémoire de %1$s \nmémoire actuellement disponibles:%2$s</string>
     <string name="recent_dialog_buttonAppKiller">Tuer</string>
     <string name="recent_dialog_buttonTaskManager">Gérer</string>
-    <string name="firewall_setting">Pare-feu</string>
+    <string name="firewall_setting">Filtrage d\'appels et messages</string>
     <string name="usb_in_charge">Chargement</string>
     <string name="usb_mode_selection">sélectionnez le type de connexion USB</string>
     <string name="usb_mode_charge_only">Charge seulement</string>

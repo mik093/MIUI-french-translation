@@ -96,5 +96,5 @@
     <string name="page_error_title">Impossible d\'accéder à</string>
     <string name="page_error">Impossible d\'accéder à MIUI, le réseaux de téléphonie mobile peut être le problème, ou il peut être lié au serveur.</string>
     <string name="page_reload">Recharger</string>
-    <string name="install_rom_from_sd">installer une ROM</string>
+    <string name="install_rom_from_sd">Installer une ROM</string>
 </resources>
