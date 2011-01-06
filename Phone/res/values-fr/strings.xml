@@ -261,7 +261,7 @@
     <string name="gsm_umts_network_preferences_title">Préférences réseau GSM/UMTS</string>
     <string name="gsm_umts_network_preferneces_summary">Pas encore implémenté</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Préférences réseau GSM/UMTS</string>
-    <string name="prefer_2g">Uniquement les réseaux 2G</string>
+    <string name="prefer_2g">Uniquement réseaux 2G</string>
     <string name="prefer_2g_summary">Économise la batterie</string>
     <string name="cdma_system_select_title">Sélection système</string>
     <string name="cdma_system_select_summary">Modifier le mode d\'itinérance CDMA</string>
@@ -478,7 +478,7 @@
     <string name="slide_to_decline_hint">Refuser</string>
     <string name="notification_ongoing_calling_format">Appelle(%s)</string>
     <string name="advanced_setting">Paramètres avancés</string>
-    <string name="call_reject_hint">Glisser pour raccrocher</string>
+    <string name="call_reject_hint">Glisser pour refuser</string>
     <string name="hangup_sms">Appuyer sur Menu pour rejeter l\'appel et répondre par SMS</string>
     <string name="hangup_sms_body">Je suis actuellement occupé(e), je te/vous rappelle plus tard</string>
     <string name="onscreenNoteText">Historique</string>

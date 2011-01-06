@@ -295,7 +295,7 @@
     <string name="bookmark_sms">Message épinglé</string>
     <string name="bookmark_sms_message">Message épinglé...</string>
     <string name="copied_message">Les messages ont été copiés...</string>
-    <string name="recent_conversation">Conversation</string>
+    <string name="recent_conversation">Conversations</string>
     <string name="contacts">Contacts</string>
     <string name="sms_bookmark">SMS épinglés</string>
     <string name="sms_push">Push</string>
@@ -335,7 +335,7 @@
     <string name="mms_image_saving_failed">Sauvegarde de l\'image échouée</string>
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_msg_loading">Chargement en cours ...</string>
-    <string name="festival_sms_push">Recommandé</string>
+    <string name="festival_sms_push">Recommandés</string>
     <string name="menu_group_sending">Message</string>
     <string name="miui_push">Recommandés par MIUI</string>
     <string name="pushed_sms_category">SMS</string>
