@@ -308,7 +308,7 @@
     <string name="notification_color_summary">Couleur du trackball lors de la réception d\'un message.</string>
     <string name="notification_color_summary_for_led">Lors de la réception de message Faire clignoté la LED</string>
     <string name="group_msg_contact_title">%s Envoyé à: %s</string>
-    <string name="single_msg_contact_title">%s Discussions</string>
+    <string name="single_msg_contact_title">Discussion avec %s</string>
     <string name="sms_bookmark_welcome">Vous n\'avez sauvegardé aucun message. Pour les sauvegarder appuyez sur un message et sélectionnez ajouter aux favoris</string>
     <string name="mms_increase_font_size">Zoomer le texte</string>
     <string name="mms_decrease_font_size">Dé-zoomer le texte</string>
@@ -351,7 +351,7 @@
     <string name="btn_delete_with_number">Supprimer(%d)</string>
     <string name="update_failed">La mise à jour a échoué</string>
     <string name="delivery_report_disable">Accusé de réception désactivé</string>
-    <string name="phrase_tab">Language</string>
+    <string name="phrase_tab">rep. rapide</string>
     <string name="smiley_tab">Smiley</string>
     <string name="contact_tab">Contacts</string>
     <string name="more_tab">Plus</string>
