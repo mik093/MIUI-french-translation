@@ -508,8 +508,10 @@
     <string name="dialer_click_pref_summary">Choisir une action pour le clic simple sur la liste de contacts</string>
     <string name="auto_dialpad_pref_title">Afficher automatiquement le clavier numérique</string>
     <string name="auto_dialpad_pref_summary">Afficher le clavier numérique pendant un appel</string>
-    <string name="crystaltalk_title">mise en NICAM</string>
-    <string name="crystaltalk_summary">optimisation configuration audio</string>
+    <string name="enforce_proximity_title">Forcer l\'utilisation de capteurs de proximité</string>
+    <string name="enforce_proximity_summary">Forcer l\'utilisation de capteurs de proximité</string>
+    <string name="crystaltalk_title">Mise en NICAM</string>
+    <string name="crystaltalk_summary">Optimisation configuration audio</string>
     <string name="deleteSimEntry">Supprimer</string>
     <string name="deleteAllSimContacts">Vider contacts de la carte SIM</string>
     <string name="deleteAllSimContactsText">Les contacts de la carte SIM sont vides</string>

@@ -115,6 +115,13 @@
         <item>#00000000</item>
         <item>#ffffffff</item>
     </array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
     <string-array name="status_bar_icon_order">
         <item>clock</item>
         <item>secure</item>
@@ -140,7 +147,7 @@
     </string-array>
     <string-array name="usb_modes">
         <item>Charge seulement</item>
-        <item>Charge et USB</item>
+        <item>Charge et Stockage USB</item>
     </string-array>
     <string-array name="networkAttributes">
         <item>wifi,1,1,1</item>

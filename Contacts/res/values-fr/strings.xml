@@ -423,4 +423,5 @@
     <string name="extendSelection">Sélectionner de 【%s】 à 【%s】</string>
     <string name="menuSelectAll">Sélectionner tous les numéros</string>
     <string name="btn_selected_with_count">Sélectionner (%d)</string>
+    <string name="group_count">(%d)</string>
 </resources>

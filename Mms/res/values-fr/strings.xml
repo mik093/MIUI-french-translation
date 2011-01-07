@@ -415,6 +415,7 @@
     <string name="message_theme_setting">Personnaliser la page de discussion</string>
     <string name="default_mms_theme_author_info">De : MIUI</string>
     <string name="resend">Retransmission</string>
+    <string name="resend_title">Renvoyer les messages?</string>
     <string name="msg_stat">%d personnes sélectionnées pour envoyer，reussi: %d</string>
     <string name="msg_stat_with_failed">Envoyer un total de %d messages，%d réussi，%d échoué.</string>
     <string name="resend_all_failed_msgs">Tout réenvoyer</string>

@@ -682,6 +682,8 @@
     <string name="battery_low_subtitle">Le niveau de la batterie est bas :</string>
     <string name="battery_low_percent_format">Maximum %d%% restants.</string>
     <string name="battery_low_why">Utilisation de la batterie</string>
+    <string name="battery_low_saving">Mode d\'économie</string>
+    <string name="battery_low_ignore">Ignorer</string>
     <string name="factorytest_failed">Échec du test usine</string>
     <string name="factorytest_not_system">L\'action FACTORY_TEST est uniquement prise en charge pour les paquets de données installés dans in/system/app.</string>
     <string name="factorytest_no_action">Impossible de trouver un paquet proposant l\'action FACTORY_TEST.</string>
@@ -922,7 +924,7 @@
     <string name="usb_in_charge">Chargement</string>
     <string name="usb_mode_selection">sélectionnez le type de connexion USB</string>
     <string name="usb_mode_charge_only">Charge seulement</string>
-    <string name="usb_mode_mount_storage">Transfert de données et charge</string>
+    <string name="usb_mode_mount_storage">Charge et Stockage USB</string>
     <string name="usb_mode_mount_storage_summary">Les programme sur la carte mémoire ne pourront être exécuter</string>
     <string name="usb_mode_dont_ask">Ne plus demander</string>
     <string name="lunar_zheng">Est-ce</string>

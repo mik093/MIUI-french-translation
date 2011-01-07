@@ -142,7 +142,6 @@
     <string name="online_resource_music" />
     <string name="lrc_searching">cherche les Lyrics...</string>
     <string name="lrc_search_failed">Impossible de trouver les Lyrics!</string>
-    <string name="album_search_failed">Pochettes d\'album introuvables ...</string>
     <string name="app_name">MIUI Music</string>
     <string name="cancel">Annuler</string>
     <string name="loading">Chargement...</string>
@@ -188,8 +187,6 @@
     <string name="online_music" />
     <string name="load_category_in_process">Obtention de la liste</string>
     <string name="load_category_failed">Obtention de la liste échoué</string>
-    <string name="search_in_process">Rechercher</string>
-    <string name="search_failed">Recherche échoue, vérifier la connectivité réseau</string>
     <string name="download">Télécharger</string>
     <string name="widget_1x">Widget_1x</string>
     <string name="update_title">Mise à jour</string>
@@ -197,38 +194,6 @@
     <string name="update_now">Installation de la mise à jour %d %%</string>
     <string name="update_success">Mise à jour avec succès</string>
     <string name="buffering">Mise en mémoire tampon...</string>
-    <string name="folder">Dossier</string>
-    <string name="playlist_and_folder">Liste</string>
-    <string name="miui_folder">MIUI下载</string>
-    <string name="favorite_playlist_item">Favoris</string>
-    <string name="music_filter_helper">Afin d\'améliorer l\'expérience de la musique, les fichiers de moins de 800Ko seront supprimer pour vous automatiquement, car ce ne sont généralement pas des chansons. Vous pouvez aller dans les paramètres pour régler le seuil ou désactiver la fonction de filtrage</string>
-    <string name="min_muisic_size">Taille minimale des fichiers audio</string>
-    <string name="muisic_filter">Filtre</string>
-    <string name="filter_by_folder">Filtrer par dossier</string>
-    <string name="select_folder">Sélectionnez le dossier que vous souhaitez afficher</string>
-    <string name="filter_min">0Ko</string>
-    <string name="filter_max">2Mo</string>
-    <string name="sync_now">Synchronisation...</string>
-    <string name="music_picker">Veuillez sélectionnez les chansons que vous souhaitez ajouter</string>
-    <string name="select_all">Tout sélectionner</string>
-    <string name="picker_song_list">Sélectionnez une piste</string>
-    <string name="picker_song_add">Ajouter(%d)</string>
-    <string name="add_songs">Ajouter une piste</string>
-    <string name="tracks_name">Piste</string>
-    <string name="lyric_search">Rechercher les paroles</string>
-    <string name="album_search">Rechercher pochette d\'album</string>
-    <string name="album_downloading">Télécharger la pochette d\'album...</string>
-    <string name="album_search_result">Résultats de la recherche</string>
-    <string name="song_exist_in_playlist">Importé</string>
-    <string name="search_go">Rechercher</string>
-    <string name="clear_search_history">Effacez tout l\'historique des recherches</string>
-    <string name="search_history">Histoire de recherche</string>
-    <string name="search_success_report">Total de %d dossiers</string>
-    <string name="search_failed_report">Aucune piste trouvée</string>
-    <string name="search_online_hint">Recherche de musique en ligne</string>
-    <string name="online_to_local_songs">Échecs de connexion réseau, joue la musique locale aléatoirement</string>
-    <string name="network_error">Pas de connexion réseau, veuillez vérifier vos paramètres réseau</string>
-    <string name="lyric_open_other_connect">Ouvrir les paramètres réseau pour télécharger les paroles</string>
     <string name="url_default_lyric">http://120.195.13.122/q?title=%s&amp;artist=%s</string>
     <string name="url_album">http://xshare.api.xiaomi.com/xShare?do=mp3.cover.search&amp;album=%s&amp;artist=%s</string>
     <string name="url_feedback">http://sj.xiaomi.com/miniphp/ajax.php</string>
