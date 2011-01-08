@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/camera" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:camera="http://schemas.android.com/apk/res/com.miui.camera">
+    <FrameLayout android:id="@id/frame_layout" android:layout_width="440.0dip" android:layout_height="fill_parent">
+        <FrameLayout android:layout_gravity="right" android:id="@id/frame" android:layout_width="425.0dip" android:layout_height="fill_parent">
+            <SurfaceView android:id="@id/camera_preview" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <com.miui.camera.ReferenceLine android:id="@id/reference_line" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.miui.camera.FocusRectangle android:id="@id/focus_rectangle" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/focus" />
+            </RelativeLayout>
+            <include android:layout_gravity="bottom" android:id="@id/camera_setting_bar" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="10.0dip" android:layout_marginBottom="10.0dip" layout="\@layout/camera_setting_bar" />
+            <include android:layout_gravity="bottom" android:id="@id/camera_setting_flashmode_view" android:visibility="gone" android:layout_width="245.0dip" android:layout_height="60.0dip" android:layout_marginLeft="20.0dip" android:layout_marginBottom="45.0dip" layout="\@layout/camera_setting_flashmode" />
+            <include android:layout_gravity="bottom" android:id="@id/camera_setting_exposure_view" android:visibility="gone" android:layout_width="300.0dip" android:layout_height="60.0dip" android:layout_marginLeft="20.0dip" android:layout_marginBottom="45.0dip" layout="\@layout/camera_setting_exposure" />
+            <include android:layout_gravity="bottom" android:id="@id/camera_setting_whitebalance_view" android:visibility="gone" android:layout_width="340.0dip" android:layout_height="90.0dip" android:layout_marginLeft="20.0dip" android:layout_marginBottom="45.0dip" layout="\@layout/camera_setting_whitebalance" />
+            <include android:layout_gravity="bottom" android:id="@id/camera_setting_specialeffect_view" android:visibility="gone" android:layout_width="410.0dip" android:layout_height="190.0dip" android:layout_marginLeft="10.0dip" android:layout_marginBottom="45.0dip" layout="\@layout/camera_setting_specialeffect" />
+            <include android:layout_gravity="bottom" android:id="@id/camera_setting_othersettings_view" android:visibility="gone" android:layout_width="400.0dip" android:layout_height="270.0dip" android:layout_marginLeft="10.0dip" android:layout_marginBottom="45.0dip" layout="\@layout/camera_setting_othersettings" />
+        </FrameLayout>
+    </FrameLayout>
+</LinearLayout>
