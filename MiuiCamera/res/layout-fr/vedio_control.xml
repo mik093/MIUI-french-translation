@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<RelativeLayout android:orientation="vertical" android:id="@id/control_bar" android:background="@drawable/camera_control_bg" android:layout_width="70.0dip" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.miui.camera.RotateImageView android:id="@id/vedio_switch_icon" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="5.0dip" android:src="@drawable/ic_video_switch" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
-    <com.miui.camera.ShutterButton android:id="@id/shutter_button" android:background="@drawable/shutter_bg" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_camera" android:scaleType="center" android:layout_centerInParent="true" android:layout_centerHorizontal="true" />
-    <com.miui.camera.RotateImageView android:id="@id/review_icon" android:focusable="false" android:clickable="true" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginBottom="5.0dip" android:src="@drawable/ic_review" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
-</RelativeLayout>

@@ -8,6 +8,6 @@
         <ImageView android:id="@id/camera_setting_whitebalance" android:background="@drawable/button_bg_m_off" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/camera_whitebalance" android:scaleType="center" />
         <ImageView android:id="@id/camera_setting_specialeffect" android:background="@drawable/button_bg_m_off" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/camera_specialeffect" android:scaleType="center" />
         <ImageView android:id="@id/camera_setting_othersettings" android:background="@drawable/button_bg_r_off" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/camera_othersettings" android:scaleType="center" />
-        <TextView android:textSize="17.0dip" android:gravity="center" android:id="@id/camera_retrieve_default_settings" android:background="@drawable/button_bg_off" android:layout_width="170.0dip" android:layout_height="40.0dip" android:layout_marginLeft="2.0dip" android:text="@string/pref_camera_retrieve_default_settings" />
+        <TextView android:textSize="17.0dip" android:gravity="center" android:id="@id/camera_retrieve_default_settings" android:background="@drawable/button_bg_off" android:layout_width="120.0dip" android:layout_height="40.0dip" android:layout_marginLeft="30.0dip" android:text="@string/pref_camera_retrieve_default_settings" />
     </LinearLayout>
 </LinearLayout>
