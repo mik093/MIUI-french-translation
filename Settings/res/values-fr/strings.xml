@@ -1100,9 +1100,9 @@
     <string name="privacy_settings_title">Paramètres de confidentialité</string>
     <string name="backup_section_title">Sauvegarder et restaurer</string>
     <string name="personal_data_section_title">Données personnelles</string>
-    <string name="backup_data_title">Sauvegarder mes données</string>
+    <string name="backup_data_title">Sauvegarde des données</string>
     <string name="backup_data_summary">Sauvegarder mes paramètres et autres données d\'application</string>
-    <string name="auto_restore_title">Restaurer automatiquement</string>
+    <string name="auto_restore_title">Restauration auto</string>
     <string name="auto_restore_summary">Restaurer les paramètres ou autres données sauvegardées lorsqu\'une application est réinstallée</string>
     <string name="backup_erase_dialog_title">Sauvegarder</string>
     <string name="backup_erase_dialog_message">Voulez-vous vraiment arrêter de sauvegarder vos paramètres et vos données d\'application, et supprimer toutes les copies des serveurs Google ?</string>
@@ -1120,7 +1120,7 @@
     <string name="sound_category_sound_title">Généralités</string>
     <string name="sound_category_calls_title">Appels entrants</string>
     <string name="sound_category_notification_title">Notifications</string>
-    <string name="sound_category_feedback_title">Commentaires</string>
+    <string name="sound_category_feedback_title">Divers</string>
     <string name="common_settings_tab">Généraux</string>
     <string name="personal_settings_tab">Personnels</string>
     <string name="system_settings_tab">Système</string>
@@ -1133,7 +1133,7 @@
     <string name="password_guide_desc1">Définir un mot de passe personnels pour mieux protéger votre vie privée, cliquez sur paramètres de sécurité pour définir votre mot de passe personnel.</string>
     <string name="password_guide_desc2">Si vous ne souhaitez pas définir un mot de passe, veuillez cliquer sur le bouton Annuler.</string>
     <string name="security_privacy_settings_title">Sécurité et confidentialité</string>
-    <string name="personal_password_title">Définir un mot de passe personnels</string>
+    <string name="personal_password_title">Définir un mot de passe</string>
     <string name="personal_password_summary">Le code PIN sera utilisé pour protéger les données de vie privée stockées sur votre téléphone</string>
     <string name="personal_password_for">Mot de passe personnel utilisé pour :</string>
     <string name="personal_password_for_lockscreen_title">Déverrouiller l\'écran</string>
@@ -1194,9 +1194,9 @@
     <string name="enable_back_long_press">Appuis long pour tuer</string>
     <string name="back_long_press_timeout">Durée\n%1$.1f s</string>
     <string name="media_buttons">Touches multimédia</string>
-    <string name="preferred_app_title">Priorité de la demande pour répondre aux touches multimédia</string>
+    <string name="preferred_app_title">Touches multimédia</string>
     <string name="no_media_button_receiver">Aucun bouton</string>
-    <string name="trackball_wake_title">Trackball wake</string>
+    <string name="trackball_wake_title">Reveil par Trackball</string>
     <string name="install_development_settings_title">Installation et débogage</string>
     <string name="uninstall_program_title">Désinstaller</string>
     <string name="manage_applications_title">Gestionnaire d\'applications</string>
@@ -1215,9 +1215,9 @@
     <string name="breathing_light_color_summary">Couleur du trackball lors de nouvelles notifications</string>
     <string name="breathing_light_freq_title">Fréquence de clignotement</string>
     <string name="breathing_light_freq_summary">Interval entre les flashs</string>
-    <string name="turnover_mute_title">Silence par retournement</string>
+    <string name="turnover_mute_title">Muet par retournement</string>
     <string name="turnover_mute_summary">Retournez le téléphone pour le rendre muet</string>
-    <string name="handon_ringer_title">Sélectionner le fondu pour les sonneries</string>
+    <string name="handon_ringer_title">Fondu des sonneries</string>
     <string name="handon_ringer_summary">La sonnerie sera plus faible</string>
     <string name="battery_settings">Economie d\'énergie</string>
     <string name="battery_settings_title">Energie</string>
@@ -1269,7 +1269,7 @@
     <string name="experimental_category_launcher_title">Homescreen</string>
     <string name="app_icon_background_title">Images de fond pour les icônes de l\'écran d\'accueil</string>
     <string name="view_debug_show_fps_title">Montrer FPS</string>
-    <string name="upload_debug_log_title">Envoyer le journal de débogage</string>
+    <string name="upload_debug_log_title">Envoyer le journal</string>
     <string name="upload_debug_log_summary">Envoyer le journal de débogage uniquement si la connection WiFi est disponible, cela peut permettre d\'aider les développeurs MIUI. Merci!</string>
     <string name="lockpassword_confirm_previous_password_header">Entrez votre ancien mot de passe</string>
     <string name="gmail_settings_title">Gmail</string>

@@ -61,7 +61,7 @@
     <string name="widget_favorite_contacts_edit">Editer</string>
     <string name="widget_favorite_contacts_style">Thème</string>
     <string name="edit_folder_label">Modifier le nom du dossier</string>
-    <string name="edit_folder_title">Modifier dossiers</string>
+    <string name="edit_folder_title">Modification dossiers</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Annuler</string>
     <string name="enable_hidden">Masquer le dossier</string>
@@ -75,14 +75,14 @@
     <string name="preferences_general_title">Paramètres généraux</string>
     <string name="pref_keep_in_memory_title">Garder en mémoire</string>
     <string name="pref_keep_in_memory_summary">Force le démarrage en mémoire</string>
-    <string name="pref_render_in_truecolor_title">Graphiques de haute qualité</string>
+    <string name="pref_render_in_truecolor_title">Graphiques améliorés</string>
     <string name="pref_render_in_truecolor_summary">Désactivez cette option, dans certains, augmente la fluidité</string>
     <string name="pref_enable_drawing_cache_title">Cache graphique</string>
     <string name="pref_enable_drawing_cache_summary">Désactivez cette option permettra de libérer plus de mémoire</string>
     <string name="pref_screen_transformation_type_title">Effets de transition de sélection d\'écran</string>
     <string name="transformation_type_none">Aucun</string>
     <string name="transformation_type_crossfade">Fondu</string>
-    <string name="transformation_type_falldown">Voilé</string>
+    <string name="transformation_type_falldown">rotation</string>
     <string name="transformation_type_leftpage">Page</string>
     <string name="widget_gadget_player">Widget Musique_4x</string>
     <string name="lrc_searching">Musique Paroles de ...</string>

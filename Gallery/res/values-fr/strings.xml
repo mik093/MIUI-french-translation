@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">MIUI Galerie</string>
+    <string name="app_name">Galerie MIUI</string>
     <string name="front_title">Galerie</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="delete">Supprimer</string>
@@ -43,7 +43,7 @@
     <string name="caixin_content">Contenu MMS</string>
     <string name="screen_saver_wallpaper">Fond d\'écran de verrouillage</string>
     <string name="contact_photo">Avatar</string>
-    <string name="cut">Couper</string>
+    <string name="cut">Rogner</string>
     <string name="turn_left">Pivoter à gauche</string>
     <string name="turn_right">Pivoter à droite</string>
     <string name="disallowed_turn_left_or_right">l\'Aperçu vidéo ne permet pas la rotation</string>
@@ -56,8 +56,8 @@
     <string name="multiface_crop_help">Veuillez choisir une zone du visage</string>
     <string name="video_err">Impossible de lire la vidéo</string>
     <string name="pick_camera_app">Choisir l\'application appareil photo</string>
-    <string name="wallpaper_set">MIUI Option de fond d\'écran</string>
-    <string name="lockscreen_set">MIUI Option de fond d\'écran de verrouillage</string>
+    <string name="wallpaper_set">Fond d\'écran</string>
+    <string name="lockscreen_set">Verrouillage</string>
     <string name="gallery_save_folder">/MIUI/Miui_Gallery</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
