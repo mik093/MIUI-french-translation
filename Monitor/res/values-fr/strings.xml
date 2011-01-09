@@ -13,9 +13,9 @@
     <string name="menu_sort_by_traffic">Trier par Consommation</string>
     <string name="menu_display_system_app">Afficher les applis système</string>
     <string name="menu_not_display_system_app">Ne pas afficher les applis système</string>
-    <string name="duration_days">%dj%dh%dmin%dsec</string>
-    <string name="duration_hours">%dh%dmin%dsec</string>
-    <string name="duration_minutes">%dmin%dsec</string>
+    <string name="duration_days">%dj%dh%dmin</string>
+    <string name="duration_hours">%dh%dmin</string>
+    <string name="duration_minutes">%dmin</string>
     <string name="traffic_data">Consommation</string>
     <string name="call_time">Temps d\'appel</string>
     <string name="sms_query_call">Envois SMS</string>
