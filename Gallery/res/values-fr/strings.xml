@@ -38,10 +38,10 @@
     <string name="how_many_vieos">Vidéos</string>
     <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer?</string>
     <string name="apply_pic_for">Utiliser comme: </string>
-    <string name="wallpaper">Fond d\'écran</string>
+    <string name="wallpaper">Galerie MIUI</string>
     <string name="email_attachment">Pièces jointes aux e-mail</string>
     <string name="caixin_content">Contenu MMS</string>
-    <string name="screen_saver_wallpaper">Fond d\'écran de verrouillage</string>
+    <string name="screen_saver_wallpaper">Galerie MIUI (verrouillage)</string>
     <string name="contact_photo">Avatar</string>
     <string name="cut">Rogner</string>
     <string name="turn_left">Pivoter à gauche</string>

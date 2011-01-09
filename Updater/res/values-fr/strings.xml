@@ -83,7 +83,7 @@
     <string name="stable_version">Version stable</string>
     <string name="test_version">Version Bêta</string>
     <string name="wifi_not_available_title">Le WIFI n\'est pas connecté</string>
-    <string name="wifi_not_available_body">Les fichiers sont volumineux, vous pouvez les télécharger en WIFI. Actuellement, vous n\'êtes connecté aucun réseau Wi-Fi, télécharger quand même? Ceci utilisera le réseau mobiles avec un risque de surfacturation (Veuillez vérifier vos option d\'abonnement avant de commencer!).</string>
+    <string name="wifi_not_available_body">Les fichiers sont volumineux, vous pouvez les télécharger en WIFI. Actuellement, vous n\'êtes connecté à aucun réseau WIFI, télécharger quand même? Ceci utilisera le réseau mobiles avec un risque de surfacturation (Veuillez vérifier vos options d\'abonnement avant de commencer!).</string>
     <string name="widget_title">Mon MIUI</string>
     <string name="widget_feedback">Feedback</string>
     <string name="unable_to_flash_recovery">Impossible de flasher le recovery</string>

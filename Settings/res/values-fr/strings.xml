@@ -1159,7 +1159,7 @@
     <string name="wallpaper_settings">Sélection du fond d\'écran</string>
     <string name="choose_ringtone">Sélectionner la sonnerie</string>
     <string name="add_new_backup">Ajouter une nouvelle sauvegarde</string>
-    <string name="desktop_wallpaper">Fonds d\'écran</string>
+    <string name="desktop_wallpaper">Fond d\'écran</string>
     <string name="lockscreen_wallpaper">Ecran de veille</string>
     <string name="choose_wallpaper">Sélection de la source du fond d\'écran</string>
     <string name="voice_volume">Volume d\'appels</string>
