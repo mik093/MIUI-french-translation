@@ -48,6 +48,8 @@
     <string name="permdesc_write_settings">Permet à une application de modifier les paramètres et les raccourcis de la page d\'accueil.</string>
     <string name="gadget_error_text">Problème lors du chargement du widget</string>
     <string name="menu_edit">Mode édition</string>
+    <string name="menu_sort">Arrangement du Bureau</string>
+    <string name="menu_launcher_setting">Paramètres du Launcher</string>
     <string name="cant_remove_system_app">Impossible de supprimer une application système</string>
     <string name="uninstall_body_format">Voulez-vous désinstaller \"%s\"?</string>
     <string name="uninstall">Désinstaller</string>
@@ -80,9 +82,11 @@
     <string name="pref_enable_drawing_cache_title">Cache graphique</string>
     <string name="pref_enable_drawing_cache_summary">Désactivez cette option permettra de libérer plus de mémoire</string>
     <string name="pref_screen_transformation_type_title">Effets de transition de sélection d\'écran</string>
-    <string name="transformation_type_none">Aucun</string>
+    <string name="transformation_type_classic">Classique</string>
+    <string name="transformation_type_classic_no_overshoot">Classique (pas de rebond)</string>
     <string name="transformation_type_crossfade">Fondu</string>
     <string name="transformation_type_falldown">Rotation</string>
+    <string name="transformation_type_cube">Cube</string>
     <string name="transformation_type_leftpage">Page</string>
     <string name="widget_gadget_player">Widget Musique_4x</string>
     <string name="lrc_searching">Musique Paroles de ...</string>

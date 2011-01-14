@@ -178,6 +178,7 @@
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="ellipsis">…</string>
     <string name="mmiError">Problème de connexion ou code IHM non valide.</string>
+    <string name="mmiFdnError">Utilisation limitée aux numéros d\'appel fixes seulement.</string>
     <string name="serviceEnabled">Le service a été activé.</string>
     <string name="serviceEnabledFor">Ce service a été activé pour :</string>
     <string name="serviceDisabled">Ce service a été désactivé.</string>

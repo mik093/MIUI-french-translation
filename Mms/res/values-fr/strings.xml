@@ -239,6 +239,7 @@
     <string name="confirm">Confirmer</string>
     <string name="message_send_read_report">Une confirmation de lecture sera envoyée.</string>
     <string name="message_queued">Votre message ne peut pas être envoyé pour l\'instant. Il sera transmis lorsque le service sera à nouveau disponible.</string>
+    <string name="fdn_check_failure">Vous ne pouvez envoyer de message à vos numéros fixe.</string>
     <string name="no_subject">(Aucun objet)</string>
     <string name="unknown_sender">Expéditeur inconnu</string>
     <string name="dl_failure_notification">Le téléchargement du message %1$s de %2$s a échoué.</string>
@@ -351,11 +352,11 @@
     <string name="btn_delete_with_number">Supprimer(%d)</string>
     <string name="update_failed">La mise à jour a échoué</string>
     <string name="delivery_report_disable">Accusé de réception désactivé</string>
-    <string name="phrase_tab">rep. rapide</string>
-    <string name="smiley_tab">Smiley</string>
-    <string name="contact_tab">Contacts</string>
-    <string name="more_tab">Plus</string>
+    <string name="add_phrase">Ajout rep. rapide</string>
+    <string name="add_contact">Contacts</string>
+    <string name="add_smsbookmark">Favoris</string>
     <string name="goto_sms_bookmark">SMS favoris</string>
+    <string name="choose_phrase">rep. rapide</string>
     <string name="pref_sms_theme_title">Paramètres de thème</string>
     <string name="theme_summary">Définir le thème</string>
     <string name="theme_title">Thèmes</string>
@@ -368,6 +369,11 @@
     <string name="theme_business_note">Bloc note</string>
     <string name="theme_conversation_page">Liste</string>
     <string name="theme_message_page">Messages</string>
+    <string name="pref_key_append_signature_summary">Ajouter signature</string>
+    <string name="pref_key_append_signature_title">Ajouter signature</string>
+    <string name="pref_key_edit_signature_title">Modifier la signature</string>
+    <string name="pref_key_signature_summary">Vous n\'avez pas réglé la signature, cliquez sur Paramètres</string>
+    <string name="pref_key_signature_hint">- Ma signature</string>
     <string name="label_avatar">Avatar:</string>
     <string name="label_show_avatar">Afficher</string>
     <string name="label_hide_avatar">Cacher</string>

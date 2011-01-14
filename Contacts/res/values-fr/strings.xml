@@ -424,4 +424,7 @@
     <string name="menuSelectAll">Sélectionner tous les numéros</string>
     <string name="btn_selected_with_count">Sélectionner (%d)</string>
     <string name="group_count">(%d)</string>
+    <string name="recipient_multi_number_title">Sélectionner plusieurs numéros à contacter </string>
+    <string name="btn_confirm">Valider</string>
+    <string name="btn_cancel">Annuler</string>
 </resources>

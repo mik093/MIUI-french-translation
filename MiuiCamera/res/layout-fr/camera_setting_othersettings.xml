@@ -5,6 +5,7 @@
         <View android:background="@drawable/popup_bg_l" android:layout_width="205.0dip" android:layout_height="fill_parent" />
         <View android:background="@drawable/popup_bg_r" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     </LinearLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="260.0dip">
     <TableLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:stretchColumns="1">
         <TableRow>
             <LinearLayout android:orientation="horizontal" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip">
@@ -48,6 +49,14 @@
                 <TextView android:textSize="15.0dip" android:id="@id/camera_recordlocation_off" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:text="@string/pref_camera_recordlocation_off" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
             </LinearLayout>
         </TableRow>
+            <View android:background="@drawable/popup_line" android:layout_height="4.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="8.0dip" />
+            <TableRow>
+                <LinearLayout android:orientation="horizontal" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textSize="15.0dip" android:gravity="right" android:layout_width="86.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="@string/pref_camera_autofocus" />
+                    <TextView android:textSize="15.0dip" android:id="@id/camera_autofocus_on" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/pref_camera_autofocus_on" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
+                    <TextView android:textSize="15.0dip" android:id="@id/camera_autofocus_off" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:text="@string/pref_camera_autofocus_off" android:drawableLeft="@drawable/on" android:drawablePadding="5.0dip" />
+                </LinearLayout>
+            </TableRow>
         <View android:background="@drawable/popup_line" android:layout_height="4.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="8.0dip" />
         <TableRow>
             <LinearLayout android:orientation="horizontal" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
@@ -57,4 +66,5 @@
             </LinearLayout>
         </TableRow>
     </TableLayout>
-</FrameLayout>
+    </ScrollView>
+    </FrameLayout>

@@ -2,6 +2,8 @@
 <resources>
     <string name="app_name">Galerie MIUI</string>
     <string name="front_title">Galerie</string>
+    <string name="absence_of_sdcard">Carte SD absente</string>
+    <string name="no_files">Aucun fichier</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="delete">Supprimer</string>
     <string name="send">Envoyer</string>
@@ -20,11 +22,15 @@
     <string name="info">info</string>
     <string name="error">Erreur</string>
     <string name="warn">Avertissement</string>
+    <string name="file_title">Titre：</string>
+    <string name="file_create_time">Créé le：</string>
+    <string name="file_path">Emplacement：</string>
+    <string name="file_size">Taille：</string>
+    <string name="damaged_file">Le fichier est corrompu</string>
     <string name="camera_folder_display_name">Photo</string>
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
     <string name="send_method">Méthode d\'envois</string>
     <string name="hide_this_folder">Cacher ce dossier</string>
-    <string name="hide_this_file">Cacher ce fichier</string>
     <string name="play_video">Lire</string>
     <string name="set_wallpaper">Définir le fond d\'écran</string>
     <string name="cancel_hide">Afficher</string>
@@ -32,8 +38,6 @@
     <string name="file">Fichier</string>
     <string name="not_show_hidden">Ne pas afficher les éléments masqués</string>
     <string name="show_hidden">Afficher les éléments cachés</string>
-    <string name="show_gridstyle">Afficher en grille</string>
-    <string name="show_liststyle">Afficher en liste</string>
     <string name="how_many_pics">Images</string>
     <string name="how_many_vieos">Vidéos</string>
     <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer?</string>
@@ -51,6 +55,8 @@
     <string name="running_face_detection">Reconnaissance de visage en cours, veuillez patienté...</string>
     <string name="running_setup_highlight">Calcul de la zone de recadrage, veuillez patienté ...</string>
     <string name="saving_image">Enregistrer l\' image ...</string>
+    <string name="deleting_files">Suppression...</string>
+    <string name="loading_files">Chargement...</string>
     <string name="saving_wallpaper">Installation du fond d\'écran ...</string>
     <string name="saving_lockscreen">Installation du fond d\'écran ...</string>
     <string name="multiface_crop_help">Veuillez choisir une zone du visage</string>
@@ -67,4 +73,5 @@
     <string name="resume_playing_message">Lire à partir de %s ?</string>
     <string name="resume_playing_resume">Reprendre</string>
     <string name="resume_playing_restart">Redémarrer</string>
+    <string name="gadget_title">Cadre de l\'image</string>
 </resources>

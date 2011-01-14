@@ -89,4 +89,15 @@
     <string name="no_wifi">Pas de réseau WiFi</string>
     <string name="search_title">Recherche de documents</string>
     <string name="search_hint">Saisir tout ou partie du nom de fichier</string>
+    <string name="bluetooth_send_file">Envoyer un fichier</string>
+    <string name="bluetooth_file">Mon Dossier Bluetooth</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="bluetooth_ican">Moi</string>
+    <string name="bluetooth_recent_device">Appareils récents</string>
+    <string name="bluetooth_bounded">Appairage</string>
+    <string name="bluetooth_not_bounded">Appairés</string>
+    <string name="bluetooth_settings_title">Définir：</string>
+    <string name="bluetooth_device_disable">L\'appareil est désactivé</string>
+    <string name="open_inbound_history">Voir l\'historique entrant</string>
+    <string name="open_outbound_history">Voir l\'historique sortant</string>
 </resources>

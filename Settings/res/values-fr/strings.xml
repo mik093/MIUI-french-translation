@@ -1164,6 +1164,7 @@
     <string name="choose_wallpaper">Sélection de la source du fond d\'écran</string>
     <string name="voice_volume">Volume d\'appels</string>
     <string name="media_volume">Volume des médias</string>
+    <string name="automatic_brightness_summary">Règler le niveau de luminosité</string>
     <string name="network_category">Réseau</string>
     <string name="system_hardware_category">Système et matériel</string>
     <string name="pc_connection_category">Connection au PC</string>
@@ -1284,4 +1285,5 @@
     <string name="reboot_dialog_title">Style du menu correctement appliqueé</string>
     <string name="reboot_dialog_msg">Voulez-vous redémarrer le téléphone?</string>
     <string name="reboot">Redémarrer</string>
+    <string name="sdext_unavailable">Ce dispositif ne supporte pas A2SD +</string>
 </resources>

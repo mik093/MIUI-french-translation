@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Consommation</string>
-    <string name="duration">%d-%d-%d</string>
+    <string name="duration">Du %d-%d-%d au %d-%d-%d</string>
     <string name="sms_unit">Messages</string>
     <string name="mobile_unit">Mo</string>
     <string name="day_unit" />
@@ -13,8 +13,8 @@
     <string name="menu_sort_by_traffic">Trier par Consommation</string>
     <string name="menu_display_system_app">Afficher les applis système</string>
     <string name="menu_not_display_system_app">Ne pas afficher les applis système</string>
-    <string name="duration_days">%dj%dh%dmin</string>
-    <string name="duration_hours">%dh%dmin</string>
+    <string name="duration_days">%dj %dh %dmin</string>
+    <string name="duration_hours">%dh %dmin</string>
     <string name="duration_minutes">%dmin</string>
     <string name="traffic_data">Consommation</string>
     <string name="call_time">Temps d\'appel</string>
