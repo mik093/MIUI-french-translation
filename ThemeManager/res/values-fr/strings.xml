@@ -48,7 +48,7 @@
     <string name="theme_component_title_boot_audio">Son de démarrage</string>
     <string name="theme_component_title_font">Police</string>
     <string name="theme_component_title_others">Autre</string>
-    <string name="theme_component_title_all">Tout</string>
+    <string name="theme_component_title_all">Thèmes</string>
     <string name="component_preference_author_prefix">par %1$s</string>
     <string name="component_setting_title">Changement %1$s</string>
     <string name="component_setting_source_category_title">Choisir parmi:</string>
