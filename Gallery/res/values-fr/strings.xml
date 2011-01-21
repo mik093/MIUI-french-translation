@@ -11,7 +11,6 @@
     <string name="save_to_sdcard">Enregistrer sur la Carte SD</string>
     <string name="cancel">Annuler</string>
     <string name="ok">OK</string>
-    <string name="waiting_for_load_thumb">Chargement...</string>
     <string name="failure_external_storage_not_writable">Le périphérique de stockage externe ne peut pas être écris, l\'opération a échoué!</string>
     <string name="save_pic_error">L\'enregistrement de l\'image a échoué!</string>
     <string name="save_pic_to_success">Sauvegarde l\'image réussi!</string>
@@ -26,6 +25,8 @@
     <string name="file_create_time">Créé le：</string>
     <string name="file_path">Emplacement：</string>
     <string name="file_size">Taille：</string>
+    <string name="file_width_height">Dimensions：</string>
+    <string name="loading_thumbnail">Chargement</string>
     <string name="damaged_file">Le fichier est corrompu</string>
     <string name="camera_folder_display_name">Photo</string>
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
@@ -40,7 +41,9 @@
     <string name="show_hidden">Afficher les éléments cachés</string>
     <string name="how_many_pics">Images</string>
     <string name="how_many_vieos">Vidéos</string>
-    <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer?</string>
+    <string name="confirm_delete_file">Êtes-vous sûr de vouloir supprimer?</string>
+    <string name="confirm_delete_selected_files">La sélection sera supprimée définitivement de la carte SD</string>
+    <string name="confirm_delete_folder">La sélection sera supprimée définitivement de la carte SD</string>
     <string name="apply_pic_for">Utiliser comme: </string>
     <string name="wallpaper">Galerie MIUI</string>
     <string name="email_attachment">Pièces jointes aux e-mail</string>

@@ -515,4 +515,12 @@
     <string name="deleteSimEntry">Supprimer</string>
     <string name="deleteAllSimContacts">Vider contacts de la carte SIM</string>
     <string name="deleteAllSimContactsText">Les contacts de la carte SIM sont vides</string>
+    <string name="phone_call_pref_title">Appels téléphoniques</string>
+    <string name="turnover_mute_title">Silence par retournement</string>
+    <string name="turnover_mute_summary">Retourner le téléphone coupera la sonnerie</string>
+    <string name="handon_ringer_title">Fondu</string>
+    <string name="handon_ringer_summary">Retarde le début de la sonnerie lors d\'un appel</string>
+    <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
+    <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie</string>
+    <string name="set_smsc_address_error">Définir le numéro du centre de messagerie</string>
 </resources>
