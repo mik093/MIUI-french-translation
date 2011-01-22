@@ -47,9 +47,9 @@
     <string name="apply_existing_update_md5error_title">Le fichier MD5 ne correspond pas.</string>
     <string name="apply_existing_update_md5error_message">Erreur. Le fichier MD5 ne correspond pas.</string>
     <string name="file_not_found_error_message">Le fichier n\'existe pas ou l\'accès est impossible</string>
-    <string name="apply_upload_info_message">Cliquez sur Mettre à jour maintenant, le téléphone redémarrera automatiquement afin d\'appliquer la mise à jour. Si vous souhaitez sauvegarder le travail, revenez dans le système de sauvegarde après la mise à jour.</string>
+    <string name="apply_upload_info_message">Cliquez sur Mettre à jour maintenant, le téléphone redémarrera automatiquement afin d\'appliquer la mise à jour. Si vous souhaitez sauvegarder le travail, Allez dans l\application de sauvegarde avant la mise à jour.</string>
     <string name="notes_about_recovery">(Veuillez noter que pour obtenir les mises à jour futures par OTA, vous devez utiliser un Recovery compatible avec la ROM.)</string>
-    <string name="system_backup_button_text">Système de sauvegarde</string>
+    <string name="system_backup_button_text">Sauvegarde Système</string>
     <string name="system_backup_error_message">Sauvegarder manuellement</string>
     <string name="last_update_check_text">Dernière vérification des mises à jour</string>
     <string name="overwrite_update_title">Mise à jour</string>
@@ -109,5 +109,5 @@
     <string name="confirm_boot_recovery_dialog_message">Votre téléphone redémarrera en recovery</string>
     <string name="no_proper_updates">Pas de mise à jour disponible</string>
     <string name="no_proper_updates_body">Version actuelle %1$s, pas de mise à jour disponible pour votre version, Veuillez télécharger le package d\'installation complet</string>
-    <string name="no_new_updates">Vous avez actuellement la dernière version!</string>
+    <string name="no_new_updates">Vous avez la dernière version!</string>
 </resources>

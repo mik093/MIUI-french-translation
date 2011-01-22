@@ -78,6 +78,7 @@
     <string name="online_no_network">Pas de connexion réseau</string>
     <string name="online_reach_bottom">Pas davantage de données</string>
     <string name="online_loading">Chargement</string>
+    <string name="download_failed">Téléchargement échoué !</string>
     <string name="invalid_url">Adresse incorrecte:</string>
     <string name="cancel_all_download_task">Annuler tous les téléchargements</string>
     <string name="resource_delete_confirm">Voulez-vous vraiment supprimer?</string>

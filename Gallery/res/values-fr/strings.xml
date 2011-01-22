@@ -11,6 +11,7 @@
     <string name="save_to_sdcard">Enregistrer sur la Carte SD</string>
     <string name="cancel">Annuler</string>
     <string name="ok">OK</string>
+    <string name="open_single_image_failure">L\'ouverture de l\'image a échoué!</string>
     <string name="failure_external_storage_not_writable">Le périphérique de stockage externe ne peut pas être écris, l\'opération a échoué!</string>
     <string name="save_pic_error">L\'enregistrement de l\'image a échoué!</string>
     <string name="save_pic_to_success">Sauvegarde l\'image réussi!</string>
