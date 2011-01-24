@@ -109,5 +109,5 @@
     <string name="confirm_boot_recovery_dialog_message">Votre téléphone redémarrera en recovery</string>
     <string name="no_proper_updates">Pas de mise à jour disponible</string>
     <string name="no_proper_updates_body">Version actuelle %1$s, pas de mise à jour disponible pour votre version, Veuillez télécharger le package d\'installation complet</string>
-    <string name="no_new_updates">Vous avez la dernière version!</string>
+    <string name="no_new_updates">  Vous avez la dernière version!</string>
 </resources>
