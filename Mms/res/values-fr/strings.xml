@@ -135,9 +135,9 @@
     <string name="pref_summary_auto_delete">Supprimer lorsque les limites suivantes sont atteintes</string>
     <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
     <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
-    <string name="pref_title_mms_delivery_reports">Accusés de réception</string>
+    <string name="pref_title_mms_delivery_reports">Accusés de réception MMS</string>
     <string name="pref_title_mms_read_reports">Confirmations de lecture</string>
-    <string name="pref_title_sms_delivery_reports">Accusés de réception</string>
+    <string name="pref_title_sms_delivery_reports">Accusés de réception SMS</string>
     <string name="pref_title_auto_delete">Anciens messages</string>
     <string name="pref_title_sms_delete">Limite pour les SMS</string>
     <string name="pref_title_mms_delete">Limite pour les MMS</string>
@@ -295,7 +295,7 @@
     <string name="contacts">Contacts</string>
     <string name="sms_bookmark">SMS épinglés</string>
     <string name="sms_push">Push</string>
-    <string name="forward_from_format">%sTransfert de%s</string>
+    <string name="forward_from_format">%s Transfert de %s</string>
     <string name="msg_forward_from_format">—Transfert de:%s</string>
     <string name="forward_count_format">Transféré %d fois</string>
     <string name="recipient_count_format">Total de %d destinataires</string>
@@ -312,8 +312,8 @@
     <string name="btn_done">Supprimer</string>
     <string name="btn_cancel">Annuler</string>
     <string name="btn_confirm">Confirmer</string>
-    <string name="pref_title_mms_forward_contact">Transférer</string>
-    <string name="pref_title_sms_forward_contact">Transférer</string>
+    <string name="pref_title_mms_forward_contact">Transférer (MMS)</string>
+    <string name="pref_title_sms_forward_contact">Transférer (SMS)</string>
     <string name="pref_summary_mms_forward_contact">Ajoute des infos supplémentaires lors du transfert des informations</string>
     <string name="pref_summary_sms_forward_contact">Ajoute des infos supplémentaires lors du transfert des informations</string>
     <string name="pref_title_delivery_ringtone">Notifications de message envoyé</string>
